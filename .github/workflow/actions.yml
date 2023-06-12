@@ -1,0 +1,36 @@
+name: run main.py
+
+on:
+  schedule:
+    - cron: "5 * * * *" # At 00:00 on Monday
+  workflow_dispatch:
+
+jobs:
+  update_actions:
+    name: action periodically
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Script
+        env:
+          MONGODB_CONNECTION_STRING: ${{ secrets.MONGODB_CONNECTION_STRING }}
+        run: |
+          python main.py
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "rizkialifahp@gmail.com"
+          git config --local user.name "GitHub Actions"
+          git add UpdateData.csv
+          git commit -m "Updated Data Loker on `date` with GitHub Actions" || echo "No Changes to Commit"
+          git push origin master || echo "No Changes to Commit"

@@ -16,11 +16,11 @@ import os
 #import requests
 
 # scrape process
-try:
-    SOME_SECRET = os.environ["SOME_SECRET"]
-except KeyError:
-    SOME_SECRET = "Token not available!"
-    # or raise an error if it's not available so that the workflow fails
+#try:
+#   SOME_SECRET = os.environ["SOME_SECRET"]
+#except KeyError:
+#    SOME_SECRET = "Token not available!"
+#     or raise an error if it's not available so that the workflow fails
 
 title = []
 perusahaan = []

@@ -1,8 +1,7 @@
-#import some packages
 import pandas as pd
 #import numpy as np
 #import smtplib
-import bs4
+#import bs4
 from bs4 import BeautifulSoup
 from time import sleep
 from selenium import webdriver
@@ -10,11 +9,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+import os
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
-import os
 #import requests
-
 
 title = []
 perusahaan = []
@@ -160,10 +158,6 @@ df = pd.DataFrame({
 })
 df
 
-#from pymongo.mongo_client import MongoClient
-#from pymongo.server_api import ServerApi
-
-
 df.to_csv('LokerData.csv')
 
 # push data list to MongoDB
@@ -184,9 +178,6 @@ db.datalok.drop()
 db.datalok.insert_many(df)
 
 print("Completed")
-
-
-
 
 
 

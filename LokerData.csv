@@ -1,31 +1,91 @@
-,title,perusahaan
-0,Marketing Executive,PT Supra Primatama Nusantara
-1,Online Sales Manager,Clout Indonesia Group
-2,SPG (Cabang Klaten),PT. Pelinda Sarana Sukses
-3,Account Manager,People Connect
-4,Marketing Officer,PT Digiflazz Interkoneksi Indonesia
-5,Tiktok Operation Supervisor,Pt. Sahabat Promosi Anda
-6,Customer Service (Mandarin Speaker),PT. Cahaya Optimis Talenta
-7,Freelance Trade Finance Professional,Trdfin Support Service Pvt Ltd
-8,Freelance Trade Finance Professional,Trdfin Support Service Pvt Ltd
-9,Freelance Trade Finance Professional,Trdfin Support Service Pvt Ltd
-10,Freelance Trade Finance Professional,Trdfin Support Service Pvt Ltd
-11,Freelance Trade Finance Professional,Trdfin Support Service Pvt Ltd
-12,Guru DKV (Desain Komunikasi Visual),Perguruan Diponegoro Jakarta
-13,Guru Ekonomi,Perguruan Diponegoro Jakarta
-14,Guru Sosiologi,Perguruan Diponegoro Jakarta
-15,Guru Geografi,Perguruan Diponegoro Jakarta
-16,Guru Kimia,Perguruan Diponegoro Jakarta
-17,Guru Biologi,Perguruan Diponegoro Jakarta
-18,Guru Pendidikan Kewarganegaraan,Perguruan Diponegoro Jakarta
-19,Guru Fisika,Perguruan Diponegoro Jakarta
-20,Guru Bahasa Inggris,Perguruan Diponegoro Jakarta
-21,Guru Pendidikan Agama Islam,Perguruan Diponegoro Jakarta
-22,Guru IPA,Perguruan Diponegoro Jakarta
-23,Guru Bahasa Indonesia,Perguruan Diponegoro Jakarta
-24,Guru Matematika,Perguruan Diponegoro Jakarta
-25,Freelance Trade Finance Professional,Trdfin Support Service Pvt Ltd
-26,Staff Umum - Cikarang,LPK MINORI
-27,Guru Bahasa Inggris,Sekolah Bunyan Indonesia
-28,Guru Bahasa Arab,Sekolah Bunyan Indonesia
-29,Guru Ilmu Syariah,Sekolah Bunyan Indonesia
+,Nama_Loker,Perusahaan
+0,Ahli Pemodelan Ekonomi dan Statistika,PT JULIZAR KONSULTAN INDONESIA
+1,Master Teacher Statistika dengan R Programming Untuk Mahasiswa,Edumatrix Indonesia
+2,Marketing Officer,PT. San San Yosindo
+3,Business Development Executive,PT Karang Mas Sejahtera
+4,Sales Executive,Luna Park Media
+5,Biotechnology Analytic Development,Bernofarm Pharmaceutical
+6,Data Support,"PT ENSEVAL PUTERA MEGATRADING, TBK"
+7,Machine Learning Enginering,Jejak.in
+8,Sales Executive,Mr Safety Group
+9,Sales Supervisor,PURA Indonesia
+10,Quality Assurance Inspector (Validasi),PT Infion
+11,Bob Junior Program - Tech Support Data Reporting,PT Bobobox Mitra Indonesia
+12,Data Scientist,Hukumonline.com
+13,Quantitave Research Assistant,Treehouse Research Indonesia
+14,Bob Junior Program - Data Analyst Intern,PT Bobobox Mitra Indonesia
+15,PART TIME IT INSTRUCTOR,PT. GIT Academy Indonesia
+16,IT Developer (Magang),PT Marsindo Konsult Prima
+17,Staff Quality Control,PT ICS Group
+18,Business Intelligence Analyst (Power BI),Bernofarm Pharmaceutical
+19,Admin Sales,PT Sinde Budi Sentosa
+20,DATA ANALYST,PT Synapsa Medikatama Indonesia
+21,Data Analytics Intern,Pt. Ivonesia Solusi Data (ivosights)
+22,Data Scientist,PT Neural Technologies Indonesia (Official)
+23,E-COMMERCE INTERN,PT Kami Gawi Berjaya
+24,Bob Junior Program - Organization Development Intern,PT Bobobox Mitra Indonesia
+25,Marketing Officer,PT. Sinergi Asia Fintech
+26,Admin Marketing,PT. Sinergi Asia Fintech
+27,Marketing Senior,BEST INDONESIAN GIFT
+28,IT Business Analyst,PT Fan Integrasi Teknologi
+29,EDM (International Promotion Department),PT Meorient Exhibition International
+30,Data Analytics and Cost Control Lead,Mangkokku Indonesia
+31,Marketing Staff,PT. MOCA CAFE DISTINCT
+32,Finance Officer,Simbadda Group
+33,Fullstack Developer (React Js),PT Pronata Data Insani
+34,Administration & Data Staff,Myrobin
+35,Freelance Data Science Tutor,Rakamin Academy
+36,Gym & Lifestyle Manager,PT Warna Warni Media
+37,Marketing Staff,Zeta Bags
+38,Data Engineer,Hukumonline.com
+39,Environmental Health Safety (EHS) Engineer,PT Amerta Corona Sahabat Indonesia
+40,Deman Planner Supervisor,PT Electronic City Tbk
+41,Marketing Officer,Pt. Inovasi Anak Indonesia
+42,Social Media Analyst,Red Communication Indonesia
+43,Data Intelligence Intern,SIRCLO
+44,Finance Director,PT. Dachin Etech Global
+45,Data Distribution Analyst,Triple Jeans
+46,Business Support Intern,Fuse Nano Tekno
+47,Talent Acquisition,PT. MGANIC NATURINDO CEMERLANG
+48,Business Intelligence,Dnalytics Consulting
+49,Admin Produksi,PT Karya Mas Makmur
+50,Machine Learning Engineer,Ragdalion Technology
+51,Business Strategic Manager,Pt. Wahana Internet Nusantara
+52,Koordinator HSE,Porto Indonesia Sejahtera
+53,Board Secretary,PT. SERIP AMADORA INDONESIA
+54,Web Developer Intern,PT Marsindo Konsult Prima
+55,Admin - Tambaksari,Otto Architecture
+56,Admin,Otto Architecture
+57,TECHNICAL ANALYST,PT. Mindo Small Business Solutions
+58,Senior Business Development,Pt Rpay Finansial Digital Indonesia
+59,Business Director,Data Arts Xperience
+60,Research Executive,Deka Marketing Research
+61,Magang Pengelolaan dan Basis Data Investor (PBD),PT Kustodian Sentral Efek Indonesia (KSEI)
+62,Freelance Tutor,Rakamin Academy
+63,Human Resources Manager,Pt Maika Akar Nusantara
+64,Senior Data Engineer,Hukumonline.com
+65,Head of Data Center,Summit Institute Of Development
+66,KOL Specialist,PT. Dachin Etech Global
+67,Recruiter External Intern,Myrobin
+68,Staf Riset ZWC,Yaksa Pelestari Bumi Berkelanjutan - Ypbb
+69,Manajemen Aset,Lozy
+70,Finance Personnel,PT Meorient Exhibition International
+71,Digital Advertising Specialist,Cera Production
+72,Science Officer,Summit Institute Of Development
+73,Performance Marketing Analyst,PT Stilt Studios Design
+74,Social Media Admin,PT Prevented Ocean Plastic Indonesia
+75,Junior Advertiser,Mangrove Corp
+76,Junior Advertiser,Mangrove Corp
+77,Data Analyst,PT Valbury Asia Futures
+78,Field Sales Representative - English CV only,Data Arts Xperience
+79,Junior Operations Associate,MIFX Indonesia
+80,Digital Marketing Specialist,PT Tasty Snack Indonesia
+81,Finance Staff,Lozy
+82,Performance Marketing Analyst,ilmuOne Data
+83,Data Scientist,Perqara
+84,Media Ops Executive,99.co
+85,Business Development Officer Indimart - Program Internship,Pt Digibook Sarana Promosi Indonesia
+86,Performance Marketing Officer,Manna Indo Lakta (MamaBear)
+87,Staf Pengelolaan dan Basis Data Investor,PT Kustodian Sentral Efek Indonesia (KSEI)
+88,Digital Advertiser,Mangrove Corp
+89,Account Executive,PT RJL Group Media Nusantara

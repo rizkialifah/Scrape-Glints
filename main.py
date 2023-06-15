@@ -134,7 +134,7 @@ df.to_csv('LokerData.csv')
 
 # push data list to MongoDB
 # Establish a client connection to MongoDB
-MONGODB_CONNECTION_STRING = os.environ["MONGODB_CONNECTION_STRING"]
+MONGODB_CONNECTION_STRING = os.environ['MONGODB_CONNECTION_STRING']
 client = MongoClient(MONGODB_CONNECTION_STRING)
 
 # convert to dictionary for uploading to MongoDB
